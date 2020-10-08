@@ -1,8 +1,7 @@
 # Automation With Ansible
 
 ## Objective
-* **[What is Ansible](#whatansible)**
-
+- [What is Ansivle] (#whatansible)
 
 <a name="whatansible"></a>
 ## Ansible
